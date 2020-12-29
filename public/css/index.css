@@ -1,0 +1,32 @@
+h1{
+    position: absolute;
+    width: 678px;
+    height: 44px;
+    left: 381px;
+    top: 250px;
+    font-family: Inter;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 44px;
+
+
+
+    
+}
+
+.input{
+ 
+position: absolute;
+width: 527px;
+height: 61px;
+left: 456px;
+top: 482px;
+}
+.button{
+    position: relative;
+    width: 248px;
+    height: 67px;
+    left: 596px;
+    top: 570px;
+}
